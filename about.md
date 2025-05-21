@@ -6,7 +6,7 @@ title: About Long Haul
 # H1
 Text! 
 ## H2
-![touring](assets/img/touring.jpg)
+![touring](assets/img/lorin-both--kU1Z5ugxWY-unsplash.jpg)
 ## H3
 Check out my [articles](articles.md)
 ## H4
